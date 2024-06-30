@@ -6,7 +6,7 @@
   <link href="https://seavensea.github.io/atom.xml" rel="self"/>
   
   <link href="https://seavensea.github.io/"/>
-  <updated>2024-06-30T03:04:14.545Z</updated>
+  <updated>2024-06-30T03:24:48.403Z</updated>
   <id>https://seavensea.github.io/</id>
   
   <author>
@@ -17,37 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章</title>
-    <link href="https://seavensea.github.io/posts/689f05e1.html"/>
-    <id>https://seavensea.github.io/posts/689f05e1.html</id>
-    <published>2024-06-30T03:04:14.000Z</published>
-    <updated>2024-06-30T03:04:14.545Z</updated>
+    <title>微信读书</title>
+    <link href="https://seavensea.github.io/posts/fe152225.html"/>
+    <id>https://seavensea.github.io/posts/fe152225.html</id>
+    <published>2024-06-30T03:24:05.000Z</published>
+    <updated>2024-06-30T03:24:48.403Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://seavensea.github.io/posts/0.html"/>
-    <id>https://seavensea.github.io/posts/0.html</id>
-    <published>2024-06-30T02:18:21.804Z</published>
-    <updated>2024-06-30T01:36:25.734Z</updated>
-    
-    <content type="html"><![CDATA[/****************************#!name = 微信读书(登录后禁用此插件)#!desc = 共享会员权益，一人付费，全员享受#!openUrl = 若会员过期可遵循自愿原则自行续费#!author = 影子#!homepage = https://napi.ltd/#!icon = https://file.napi.ltd/Static/Image/WXDuShu.png[Rewrite]^https://i\.weread\.qq\.com/login url 307 https://napi.ltd/WXDuShuLogin^https://i\.weread\.qq\.com/login 307 https://napi.ltd/WXDuShuLogin#[Script]#http-response ^https://napi\.ltd/WXDuShuLogin script-path=https://napi.ltd/script/Worker/WXDuShu.js, requires-body=true, timeout=60, tag=微信读书, img-url=https://file.napi.ltd/Static/Image/WXDuShu.png[Mitm]hostname = i.weread.qq.com, napi.ltd****************************/const obj = {"openId": "onb3MjlDBL4gHUVnYF27oz99y1u8","config" : {"scheme" : "weread://home?tab=1"},"wxAccessToken": "72_iea9pF174aATDsKC7oBUKiqXRS4K9QOEbm_xfvxupVI9z3ybG3luCvb9ei08W9KqdGiK_AecwXvmEuCHHMC2qs1f3P7HxDZB5wP6cJNpYN4","vid": 554505481,"firstLogin": 0,"refreshToken": "onb3MjlDBL4gHUVnYF27oz99y1u8@4hRs3g0SSZqQx0egRcaX5AAA","skey": "kIgvwFVs","accessToken": "kIgvwFVs","userAgreement": 0,"user": {"name": "请关闭插件后重启本软件","avatar": "https://res.weread.qq.com/wravatar/WV0004-l5dLHOQYRapfqLnd_WYnWd9/0"}}Body = JSON.stringify(obj)$done({body: Body})]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="abbrlink-‘0’">abbrlink: ‘0’</h2><p>/****************************</p><p>#!name = 微信读书(登录后禁用此插件)<br>#!desc = 共享会员权益，一人付费，全员享受<br>#!openUrl = 若会员过期可遵循自愿原则自行续费<br>#!author = 影子<br>#!homepage = <a href="https://napi.ltd/">https://napi.ltd/</a><br>#!icon = <a href="https://file.napi.ltd/Static/Image/WXDuShu.png">https://file.napi.ltd/Static/Image/WXDuShu.png</a></p><p>[Rewrite]<br>^https://i.weread.qq.com/login url 307 <a href="https://napi.ltd/WXDuShuLogin">https://napi.ltd/WXDuShuLogin</a><br>^https://i.weread.qq.com/login 307 <a href="https://napi.ltd/WXDuShuLogin">https://napi.ltd/WXDuShuLogin</a></p><p>#[Script]<br>#http-response ^https://napi.ltd/WXDuShuLogin script-path=https://napi.ltd/script/Worker/WXDuShu.js, requires-body=true, timeout=60, tag=微信读书, img-url=https://file.napi.ltd/Static/Image/WXDuShu.png</p><p>[Mitm]<br>hostname = <a href="http://i.weread.qq.com">i.weread.qq.com</a>, napi.ltd<br>****************************/</p><p>const obj = {<br>“openId”: “onb3MjlDBL4gHUVnYF27oz99y1u8”,<br>“config” : {<br>“scheme” : “weread://home?tab=1”<br>},<br>“wxAccessToken”: “72_iea9pF174aATDsKC7oBUKiqXRS4K9QOEbm_xfvxupVI9z3ybG3luCvb9ei08W9KqdGiK_AecwXvmEuCHHMC2qs1f3P7HxDZB5wP6cJNpYN4”,<br>“vid”: 554505481,<br>“firstLogin”: 0,<br>“refreshToken”: “onb3MjlDBL4gHUVnYF27oz99y1u8@4hRs3g0SSZqQx0egRcaX5AAA”,<br>“skey”: “kIgvwFVs”,<br>“accessToken”: “kIgvwFVs”,<br>“userAgreement”: 0,<br>“user”: {<br>“name”: “请关闭插件后重启本软件”,<br>“avatar”: “<a href="https://res.weread.qq.com/wravatar/WV0004-l5dLHOQYRapfqLnd_WYnWd9/0">https://res.weread.qq.com/wravatar/WV0004-l5dLHOQYRapfqLnd_WYnWd9/0</a>”<br>}<br>}</p><p>Body = JSON.stringify(obj)<br>$done({body: Body})</p>]]></content>
     
     
       
       
-    <summary type="html">/****************************
-
-#!name = 微信读书(登录后禁用此插件)
-#!desc = 共享会员权益，一人付费，全员享受
-#!openUrl = 若会员过期可遵循自愿原则自行续费
-#!author = 影子
-#!homepage = htt</summary>
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;abbrlink-‘0’&quot;&gt;abbrlink: ‘0’&lt;/h2&gt;
+&lt;p&gt;/****************************&lt;/p&gt;
+&lt;p&gt;#!name = 微信读书(登录后禁用此插件)&lt;br&gt;
+#!desc = 共享会员权益，一人付费，全员享受&lt;</summary>
       
     
     
